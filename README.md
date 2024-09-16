@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bonagiri Sahithya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+
 - 👀  I’m interested in **Problem solving and Full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BonagiriSahithya/MyPortfolio](https://github.com/BonagiriSahithya/MyPortfolio)
