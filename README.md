@@ -3,8 +3,6 @@
 
 - 👀 I’m interested in **Problem solving and Full stack development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BonagiriSahithya/MyPortfolio](https://github.com/BonagiriSahithya/MyPortfolio)
-
 - 📫 How to reach me **bonagirisahithya8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
